@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sendlemat.github.io/sendlemat.txt.gz
+Sitemap: https://sendlemat.github.io/app/sendlemat.txt.gz
+Sitemap: https://sendlemat.github.io/assets/sendlemat.txt.gz
+Sitemap: https://sendlemat.github.io/css/sendlemat.txt.gz
+Sitemap: https://sendlemat.github.io/includes/sendlemat.txt.gz
+Sitemap: https://sendlemat.github.io/item/sendlemat.txt.gz
+Sitemap: https://sendlemat.github.io/src/sendlemat.txt.gz
